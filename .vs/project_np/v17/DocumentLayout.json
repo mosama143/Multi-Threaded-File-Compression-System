@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{140CE1B3-7478-4731-A4EB-234E3AF39808}|Clinte_App\\Clinte_App.csproj|d:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\clinte_app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140CE1B3-7478-4731-A4EB-234E3AF39808}|Clinte_App\\Clinte_App.csproj|solutionrelative:clinte_app\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E26F9064-B3F0-4219-95C7-21439554619C}|server_project\\server_project.csproj|d:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\server_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E26F9064-B3F0-4219-95C7-21439554619C}|server_project\\server_project.csproj|solutionrelative:server_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140CE1B3-7478-4731-A4EB-234E3AF39808}|Clinte_App\\Clinte_App.csproj|D:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\clinte_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{140CE1B3-7478-4731-A4EB-234E3AF39808}|Clinte_App\\Clinte_App.csproj|solutionrelative:clinte_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140CE1B3-7478-4731-A4EB-234E3AF39808}|Clinte_App\\Clinte_App.csproj|d:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\clinte_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140CE1B3-7478-4731-A4EB-234E3AF39808}|Clinte_App\\Clinte_App.csproj|solutionrelative:clinte_app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140CE1B3-7478-4731-A4EB-234E3AF39808}|Clinte_App\\Clinte_App.csproj|d:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\clinte_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140CE1B3-7478-4731-A4EB-234E3AF39808}|Clinte_App\\Clinte_App.csproj|solutionrelative:clinte_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\Clinte_App\\Program.cs",
+              "RelativeDocumentMoniker": "Clinte_App\\Program.cs",
+              "ToolTip": "D:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\Clinte_App\\Program.cs",
+              "RelativeToolTip": "Clinte_App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:55:00.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\Clinte_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Clinte_App\\Form1.cs",
+              "ToolTip": "D:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\Clinte_App\\Form1.cs",
+              "RelativeToolTip": "Clinte_App\\Form1.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAiwHQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:38:04.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\Clinte_App\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Clinte_App\\Form1.Designer.cs",
+              "ToolTip": "D:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\Clinte_App\\Form1.Designer.cs",
+              "RelativeToolTip": "Clinte_App\\Form1.Designer.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAiwCYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:37:33.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\Clinte_App\\Form1.cs",
+              "RelativeDocumentMoniker": "Clinte_App\\Form1.cs",
+              "ToolTip": "D:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\Clinte_App\\Form1.cs [Design]",
+              "RelativeToolTip": "Clinte_App\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:31:02.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\server_project\\Program.cs",
+              "RelativeDocumentMoniker": "server_project\\Program.cs",
+              "ToolTip": "D:\\\u062A\u0648\u062B\u064A\u0642\\project_np\\server_project\\Program.cs",
+              "RelativeToolTip": "server_project\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAiwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:28:52.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

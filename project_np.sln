@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server_project", "server_project\server_project.csproj", "{E26F9064-B3F0-4219-95C7-21439554619C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clinte_App", "Clinte_App\Clinte_App.csproj", "{140CE1B3-7478-4731-A4EB-234E3AF39808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E26F9064-B3F0-4219-95C7-21439554619C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E26F9064-B3F0-4219-95C7-21439554619C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E26F9064-B3F0-4219-95C7-21439554619C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E26F9064-B3F0-4219-95C7-21439554619C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140CE1B3-7478-4731-A4EB-234E3AF39808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140CE1B3-7478-4731-A4EB-234E3AF39808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140CE1B3-7478-4731-A4EB-234E3AF39808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140CE1B3-7478-4731-A4EB-234E3AF39808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC19BAFA-4331-41DD-86E0-7F8E0AAF495A}
+	EndGlobalSection
+EndGlobal
